@@ -12,6 +12,7 @@ header{
     text-align: center;
     border: 6px solid beige;
 }
+
 footer{
     grid-area: footer;
     margin: 5px;
